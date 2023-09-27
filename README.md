@@ -1,7 +1,7 @@
 # Hot-plate-cotroller-using-PID
 
 <h3>This is  a analog electronic project about making a hot plate temperature controller using PID algorithm.  </h3>
-<br>This is our semester 3 group project.<br>
+<br>This is a our semester 3 group project.<br>
 <h4> There are 4 main circuit units use to this. </h4>
 
 <ol>
