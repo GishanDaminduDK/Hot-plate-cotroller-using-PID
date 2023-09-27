@@ -1,4 +1,5 @@
 # Hot-plate-cotroller-using-PID
+![image](https://github.com/GishanDaminduDK/Hot-plate-cotroller-using-PID/assets/124694898/fffd2bac-96b7-4fa2-b6e4-971f837fcb4b)
 
 <h3>This is  a analog electronic project about making a hot plate temperature controller using PID algorithm.  </h3>
 <br>This is an our semester 3 group project.<br>
@@ -24,7 +25,6 @@
 <li>PCBs --> <i>Altium  </i> </li>
 <li>encloser --> <i> SolidWorks </i>  </li>
 <li>Digital Display --> <i> Arduino  </i> </li>
-![image](https://github.com/GishanDaminduDK/Hot-plate-cotroller-using-PID/assets/124694898/fffd2bac-96b7-4fa2-b6e4-971f837fcb4b)
 
 
 </ul>
