@@ -1,0 +1,23 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Free Documents]
+   Generated File[Sensor Interface.GTO]
+   Generated File[Sensor Interface.GTS]
+   Generated File[Sensor Interface.GTL]
+   Generated File[Sensor Interface.GBL]
+   Generated File[Sensor Interface.GBS]
+   Generated File[Sensor Interface.GM1]
+   Generated File[Sensor Interface.GM13]
+   Generated File[Sensor Interface.GM15]
+   Generated File[Sensor Interface.GPT]
+   Generated File[Sensor Interface.GPB]
+   Generated File[Sensor Interface.GD1]
+   Generated File[Sensor Interface.RUL]
+   Generated File[Sensor Interface.EXTREP]
+   Generated File[Sensor Interface.REP]
+
+
+Files Generated   : 14
+Documents Printed : 0
+
+Finished Output Generation At 4:06:16 AM On 2/28/2023
